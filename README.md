@@ -14,5 +14,3 @@ http://www.codeskulptor.org/#user39_huPIFmJ6UJ_16.py
 
 ### Memory:
 http://www.codeskulptor.org/#user41_aC5ZKCxVL0yJbDe.py
- 
-#### The link may be blocked so that you may need to use vpn or any proxy service to get access.
