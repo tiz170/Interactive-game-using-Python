@@ -1,4 +1,4 @@
-# Interactive-Game-using-Python
+# Interactive Game using Python
 Several interesting interactive games developed by Python.
 
 There are four interesting interactive games and you may open them using the following link since they are built on an online platform:
